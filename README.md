@@ -50,12 +50,13 @@ A simple weather app that fetches real-time weather data using the OpenWeather A
 ## ⚙️ Setup & Installation
 
 1. Clone this repository:
+   
    ```sh
    https://github.com/TonyStark-19/Weather-app.git
    ```
-2. Open `index.html` in your browser.
-3. Replace `YOUR_API_KEY_HERE` in `script.js` with your OpenWeather API key.
-4. Start searching for weather updates!
+3. Open `index.html` in your browser.
+4. Replace `YOUR_API_KEY_HERE` in `script.js` with your OpenWeather API key.
+5. Start searching for weather updates!
 
 ---
 
